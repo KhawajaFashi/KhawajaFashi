@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhawajaFashi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me: 
 - By writing email at fashi449623@gmail.com
