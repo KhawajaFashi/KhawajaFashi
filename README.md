@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @KhawajaFashi<br>👀 I’m interested in Coding<br>🌱 I’m currently learning Cyber Security<br>💞️ I’m looking to collaborate on Web Development projects<br>📫 How to reach me:<br>By writing email at fashi449623@gmail.com<br>LinkedIn: https://www.linkedin.com/in/khawaja-fashi-ud-din-abdullah-859b7a23b/
+👋 Hi, I’m @KhawajaFashi<br>👀 I’m interested in Coding<br>🌱 I’m currently learning Cyber Security<br>💞️ I’m looking to collaborate on Web Development projects<br>📫 How to reach me:<br>By writing email at fashi449623@gmail.com<br>
 
 
 ## 🌐 Socials:
