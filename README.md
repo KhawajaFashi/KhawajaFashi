@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently moving towards **DevOps Engineering starting with kafka**<br><br>👨‍💻 All of my projects are available at [https://github.com/KhawajaFashi](https://github.com/KhawajaFashi)<br><br>📫 How to reach me **khawajafashi9623@gmail.com**<br><br>📄 Know about my experiences [https://khawajafashiresume.tiiny.site](https://khawajafashiresume.tiiny.site)<br><br>⚡ Fun fact **I’m interested in how backend architecture and security intersect in real-world applications.**
+<br>🌱 I’m currently moving towards **Backend Engineering**<br><br>👨‍💻 All of my projects are available at [https://github.com/KhawajaFashi](https://github.com/KhawajaFashi)<br><br>📫 How to reach me **khawajafashi9623@gmail.com**<br><br>📄 Know about my experiences [https://khawajafashiresume.tiiny.site](https://khawajafashiresume.tiiny.site)<br><br>⚡ Fun fact **I’m interested in how backend architecture and security intersect in real-world applications.**
 
 
 ## 🌐 Socials:
