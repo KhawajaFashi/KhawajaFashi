@@ -31,9 +31,11 @@ My focus is on the intersection of backend architecture and application security
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KhawajaFashi&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=KhawajaFashi&theme=onedark&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhawajaFashi&theme=onedark&hide_border=true&layout=compact)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhawajaFashi&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com/?user=KhawajaFashi&theme=onedark&hide_border=true)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhawajaFashi&theme=github_dark)
 
 ---
 
