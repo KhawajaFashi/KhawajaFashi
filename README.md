@@ -42,3 +42,4 @@ My focus is on the intersection of backend architecture and application security
 ## Let's Talk
 
 [Portfolio](https://khfa.dev) · [LinkedIn](https://www.linkedin.com/in/khawaja-fashi-ud-din-abdullah-859b7a23b/) · [X](https://x.com/khawajafashi) · khawajafashi9623@gmail.com
+
